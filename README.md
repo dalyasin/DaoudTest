@@ -1,2 +1,10 @@
 # DaoudTest
-Test GitHub lernen
+using System ;
+namespace Lernen {
+	Class Text {
+		static void Main {
+
+		Console.WriteLine(" hallo welt")
+		}
+	}
+}
